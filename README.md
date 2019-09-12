@@ -17,9 +17,6 @@ pip install -r requiremnets
 5. Run tourmate.py code and the Bot can now be used in Telegram
 
 
-## Demo
-
-
 ## Resources
 1. [Telegram Bot](https://core.telegram.org/bots)
 2. [Malaysian Meteorological Department Web Service API](https://api.met.gov.my)
