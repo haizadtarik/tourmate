@@ -1,4 +1,4 @@
-# hackhaton-data-terbuka-2019
+# Tourmate
 Telegram Bot that can suggest places to visit, places to stay and restaurants to eat in Kelantan based on Government open data. This project was developed as submission for Hackathon Data Terbuka Malaysia 2019.
 
 ## Setup
@@ -6,7 +6,7 @@ Telegram Bot that can suggest places to visit, places to stay and restaurants to
 
 2. Download the repository or use Git to clone it : 
 ```
-git clone https://github.com/haizadtarik/TranslatorBot
+https://github.com/haizadtarik/tourmate.git
 ```
 3. Install dependencies
 ```
