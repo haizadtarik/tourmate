@@ -1,6 +1,11 @@
 # Tourmate
 Telegram Bot that can suggest places to visit, places to stay and restaurants to eat in Kelantan based on Government open data. This project was developed as submission for Hackathon Data Terbuka Malaysia 2019.
 
+The bot can suggest places to eat, stay or visit based on district in Kelantan which are Bachok, Gua Musang, Jeli District, Kota Bharu, Kuala Krai, Machang, Pasir Mas, Pasir Puteh, Tanah Merah and Tumpat.
+
+For each of the suggested place the user can check the review, weather, operation hour and entrance fee if available.
+
+
 ## Setup
 1. This project require you to have python, Telegram account and MET API account from Mlalaysia meteorological department
 
